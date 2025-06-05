@@ -2831,4 +2831,5 @@ input, select, textarea {
     color: #666;
     max-width: 700px;
     margin: 0 auto;
+    text-align: center;
 }
