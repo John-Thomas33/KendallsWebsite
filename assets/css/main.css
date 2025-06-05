@@ -2812,3 +2812,25 @@ input, select, textarea {
     font-size: 16px;
     color: #555;
 }
+
+/* ============================= */
+/* Services Section Styling */
+/* ============================= */
+
+#services header.major {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+#services header.major h2 {
+    font-size: 2.5em;
+    font-weight: 700;
+    color: #333;
+}
+
+#services header.major p {
+    font-size: 1.2em;
+    color: #777;
+    max-width: 600px;
+    margin: 0 auto;
+}
