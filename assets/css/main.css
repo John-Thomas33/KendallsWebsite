@@ -2819,6 +2819,7 @@ input, select, textarea {
 
 #services {
     padding: 5em 1em;
+    text-align: center;
 }
 
 #services h2 {
