@@ -2824,6 +2824,7 @@ input, select, textarea {
 #services h2 {
     font-size: 2.4em;
     font-weight: 700;
+    text-align: center;
 }
 
 #services p {
